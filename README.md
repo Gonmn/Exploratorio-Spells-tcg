@@ -2,9 +2,16 @@
 Este es un proyecto que muestra el análisis de un negocio desde datasets, además del proceso de toma de decisiones  basadas en datos.
 Para realizar el análisis se usó Python y librerías como Pandas, Seaborn, Matplotlib entre otras.
 -INFORMACIÓN DEL PROYECTO
-### :fireworks: *Descripción Proyecto Instacrt*
-- Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash.
-- El objetivo es limpiar los datos y preparar un informe que brinde información sobre los hábitos de compra de los clientes de Instacart. 
+### :fireworks: *Descripción Y.AFisha*
+- Optimizar los gastos de marketing.
+
+Contamos con los registros del servidor con datos sobre las visitas a Y.Afisha desde enero de 2017 hasta diciembre de 2018; un archivo con los pedidos en este periodo;estadísticas de gastos de marketing.
+
+**Se debe investigar:**
+- Cómo los clientes usan el servicio;
+- Cuándo empiezan a comprar;
+- Cuánto dinero aporta cada cliente a la compañía;
+- Cuándo los ingresos cubren el costo de adquisición de los clientes.
 
 
 ### :page_facing_up: *Documentación utilizada:* 
@@ -27,25 +34,23 @@ Para realizar el análisis se usó Python y librerías como Pandas, Seaborn, Mat
 
 ### :paw_prints: *Pasos a seguir para la ejecución del proyecto:* 
 - **Hacer informes y calcular métricas:**
-- __Visitas:__
+  
+ __Visitas:__
 - Cuántas personas usan el sitio cada día, semana y mes.
 - Cuántas sesiones hay por día (un/a usuario/a puede tener más de una sesión).
 - Cuál es la duración de cada sesión.
 - Con qué frecuencia los usuarios y las usuarias regresan.
-- **Ventas:**
+
+**Ventas:**
 - Determinar cuanndo la gente empieza a comprar
 - Averiguar cuantos pedidos hacen durante un período de tiempo dado.
 - Conocer cual es el tamaño promedio de compra.
-- **Marketing:**
+
+**Marketing:**
 - ¿Cuánto dinero se gastó?
 - Saber cuál fue el costo de adquisición de clientes de cada una de las fuentes.
 - Conocer que tan rentables eran las inversiones (ROMI).
 - Trazar gráficos para mostrar cómo difieren estas métricas para varios dispositivos y fuentes de anuncios y cómo cambian con el tiempo.
-- **Escribir una conclusión: aconsejar a los expertos de marketing cuánto dinero invertir, donde y qué fuentes/plataformas recomendar.**
 
-- Traza la distribución del número de pedidos que hacen los clientes y las clientas.
-- Identificar los 20 principales productos que se piden con más frecuencia
-- Averiguar cuántos artículos compra la gente por lo general en un pedido y cómo es la distribución
-- Encontrar los 20 principales artículos que se vuelven a pedir con más frecuencia
-- Para cada producto, qué proporción de sus pedidos se vuelven a pedir
-- Averiguar cuáles son los 20 principales artículos que la gente pone en sus carritos primero
+**Escribir una conclusión: aconsejar a los expertos de marketing cuánto dinero invertir, donde y qué fuentes/plataformas recomendar.**
+
